@@ -1,4 +1,4 @@
-Here is a simple flow chart:
+Here is a Sequence Diagram:
 
 ```mermaid
 sequenceDiagram
